@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///C:/Users/muham/Documents/Sublime/htmlan/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<meta name="viewport" content="width=device-widht">
+	<title>Html"an</title>
+	<link rel="stylesheet" type="text/css" href="./Html_an_files/style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+		  <div id="logo">
+		  	<h1> <span class="span">UNSADA </span>WEB DESAIN</h1>
+		 </div>
+		 <nav>
+		 	<ul>
+		 		<li class="current"><a href="file:///C:/Users/muham/Documents/Sublime/htmlan/index.html">Home</a></li>
+		 		<li><a href="file:///C:/Users/muham/Documents/Sublime/htmlan/about.html">about</a></li>
+		 		<li><a href="file:///C:/Users/muham/Documents/Sublime/htmlan/service.html">service</a></li>
+		 	</ul>
+		 </nav>
+		</div>  	
+	</header>
+
+	<section id="background">
+	  <div class="container">
+	  	<h1>belajar html</h1>
+	  	<p>forum sharing-sharing</p>
+	  </div>	
+	</section>
+
+	<section id="login">
+	  <div class="container">
+	  	<h1>yuk belajar html</h1>
+	  	<form>
+	  	  <input type="email" name="masukan email" placeholder="masukan email">
+	  	  <button type="submit" class="button_1">masuk</button>
+	  	</form>
+	  </div>	
+	</section>
+
+	<section id="icon">
+	  <div class="container">
+	    <div class="icon1">
+	      <img src="./Html_an_files/logo_html.png">
+	      <a href="file:///C:/Users/muham/Documents/Sublime/htmlan/index.html##"><h3>htmlan yuk</h3></a>
+	      <p>Belajar tentang macam-macam tag HTML</p>
+	    </div>
+	    <div class="icon1">
+	      <img src="./Html_an_files/logo_css.png">
+	     <a href="file:///C:/Users/muham/Documents/Sublime/htmlan/index.html##"> <h3>cssan yuk</h3></a>
+	      <p>Dasar-dasar css, pengertian, cara penggunaan</p>
+	    </div>
+	    <div class="icon1">
+	      <img src="./Html_an_files/logo_web.png">
+	      <a href="file:///C:/Users/muham/Documents/Sublime/htmlan/index.html##"><h3>desain web</h3></a>
+	      <p>Insprirasi desain web (template-template web)</p>	
+	    </div>
+	  </div>	
+	</section>
+
+	<footer>
+	  <p>UNSADA WEB DESAIN, copyright © 2019</p>	
+	</footer>
+
+</body></html>
